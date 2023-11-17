@@ -1,4 +1,4 @@
 # Practicas_javascript
-![Captura 1](img/Captura de pantalla (230).png)
-![Captura 2](img/Captura de pantalla (231).png)
+![Captura 1](img/Captura%20de%20pantalla%20(230).png)
+![Captura 2](img/Captura%20de%20pantalla%20(231).png)
 
